@@ -4,7 +4,7 @@ A simple DApp that creates a smart contract wallet (not an EOA)
 
 ## Getting Started
 - Clone the repo
-Run the development server:
+- Run the development server:
 
 ```bash
 npm run dev
